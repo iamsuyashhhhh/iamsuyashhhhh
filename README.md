@@ -21,7 +21,7 @@ I work across **Data Engineering, backend systems, and full-stack development**,
 * ⚡ Building full-stack applications using **React, Node.js and TypeScript**
 * 🧠 Strengthening **C++ and Data Structures & Algorithms**
 * 🏗️ Exploring **data modeling, ETL/ELT, Medallion Architecture and scalable systems**
-* 🚀 Building and experimenting with products such as **1Tool — PaperFlow**
+* 🚀 Building and experimenting with products 
 
 ---
 
