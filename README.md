@@ -1,8 +1,16 @@
-# Suyash Saxena
+# 👨‍💻 Suyash Saxena
 
-**Data Engineer • Software Developer • Full-Stack Developer**
+### 🐍 Data Engineer  ·  ⚙️ Software Engineer  ·  🌐 Full-Stack Developer
 
-I build data pipelines, backend systems, and full-stack applications, with a growing focus on **Data Engineering, distributed data processing, and production-oriented software development**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,cpp,typescript,react,nodejs,azure,databricks" />
+</p>
+
+> **Building data-intensive systems, scalable pipelines, and modern software products.**
+
+I work across **Data Engineering, backend systems, and full-stack development**, turning ideas into reliable and maintainable software.
+
+---
 
 ---
 
