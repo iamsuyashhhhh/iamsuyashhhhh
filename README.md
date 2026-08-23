@@ -3,7 +3,9 @@
 ### 🐍 Data Engineer  ·  ⚙️ Software Engineer  ·  🌐 Full-Stack Developer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,cpp,typescript,react,nodejs,azure,databricks" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,nodejs,azure" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 > **Building data-intensive systems, scalable pipelines, and modern software products.**
