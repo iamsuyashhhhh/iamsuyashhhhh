@@ -89,16 +89,6 @@ C++ order matching engine simulating core concepts used in electronic trading sy
 
 ---
 
-### 📄 1Tool — PaperFlow
-
-A document productivity platform built around:
-
-**Scan → Clean → OCR → Edit → Study → Export**
-
-`Next.js` `TypeScript` `Supabase` `OpenAI` `Razorpay`
-
----
-
 ### 🚀 TaskFlow
 
 Full-stack project management platform developed as a **hackathon project**, where I served as **Team Lead**.
